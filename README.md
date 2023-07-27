@@ -1,7 +1,7 @@
 Hi 👋 My name is Thomas
 =======================
 
-Front-end Web Developer
+Frontend Web Developer
 -----------------------
 
 * 🌍  I'm based in London, UK
